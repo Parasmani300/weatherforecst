@@ -82,10 +82,10 @@ public class Constants {
   public static final long TIME_TO_PASS = 6 * 600000;
 
   public static final String LAST_STORED_CURRENT = "last-stored-current";
-  public static final String LAST_STORED_MULTIPLE_DAYS = "last-stored-multiple-days";
-  public static final String OPEN_WEATHER_MAP_WEBSITE = "https://home.openweathermap.org/api_keys";
+  public static final String LAST_STORED_MULTIPLE_DAYS = "15";
+  public static final String OPEN_WEATHER_MAP_WEBSITE = "https://home.openweathermap.org/3f62951be8c8e3d5e5b53134502f544c";
 
-  public static final String API_KEY = "api-key";
+  public static final String API_KEY = "3f62951be8c8e3d5e5b53134502f544c";
   public static final String LANGUAGE = "language";
   public static final String DARK_THEME = "dark-theme";
   public static final String FIVE_DAY_WEATHER_ITEM = "five-day-weather-item";
